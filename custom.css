@@ -1,0 +1,194 @@
+.h1{
+    column-span:"1";
+    background-color: azure;
+    align-items:"center";
+    text-align: center;
+    width: 20%; 
+    height: 20%;
+}
+.nb1{
+    text-align: center;
+    color: rgb(100, 67, 24);
+    color: black; 
+ } 
+
+
+.bg{ 
+    background-size: cover;
+
+}
+
+.tbl1{
+    width:"90%"; 
+    text-align: center;
+    border:2px;
+    background-color: beige;
+}
+
+.tbl2{
+    background-color: beige; 
+    background-color: azure;
+    text-align: center; 
+    color: rgb(40, 28, 13);
+    text-align: center;
+    color: rgb(40, 28, 13);
+    text-align: center;
+    color: rgb(40, 28, 13);
+}
+
+.ftr{
+    text-align: right; 
+    color:rgb(40, 28, 13); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: xx-small;
+}
+
+
+
+.h1{
+    text-align: center; 
+    color: rgb(25, 90, 58); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: small;
+}
+
+.tbl3{
+    width:"20%"; 
+    align-items:"left";
+    border:"2px";
+    background-color: beige;
+    column-span:"1";
+    background-color: azure;
+}
+
+.tbl4{
+    column-span: "1";
+    background-color: azure;
+    align-items:"center";
+    width:"40%"; 
+    align-items:"center";
+    background-color:rgb(68, 107, 88);
+    width: 20%; 
+    border: 1px; 
+    height:20%;
+    column-span:"1";
+    background-color: rgb(249, 240, 229);
+}
+
+
+.tbl5{
+    width:"70%";
+    align-items:center; 
+    border:"1px"; 
+    background-color: beige;
+}
+
+.tbl20{
+    column-span:"3"; 
+    text-align: center; 
+    background-color: whitesmoke;
+    vertical-align:"top"; 
+    font-style:"georgia";  
+    size:"4px"; 
+    font-size:"4px"; 
+    font-style:"palatino";
+}
+
+
+.h1{
+    text-align: center; 
+    color: rgb(249, 239, 188); 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+
+.tbl6{
+    width:"50%";
+    align-items:"center"; 
+    background-color: azure;
+    align-items:"center";
+}
+
+.tbl21{
+    width:"60%";
+    align-items:"center";
+    border:"3px";
+    background-color: beige;
+}
+
+.h1{
+    text-align: center;
+    font-style: italic;
+}
+.tbl7{
+    background-color:"#fff3d3";
+    vertical-align:"top";
+    width:"47%";
+    font-style:"georgia";
+    size:"4px";
+    font-size:"4px";
+    font-style:"palatino";
+}
+
+
+.tbl8{
+    text-align: justify;
+    width:"80%";
+    align-items:"center";
+    border:"2px";
+    text-align: center;
+    background-color: beige;
+    column-span:"1";
+    background-color: azure;
+}
+
+.h2{
+    font-size:"6px";
+    font-style:"georgia";
+    text-align:"center";
+    font-size:"5px";
+    font-style:"palatino";
+    width:"30px";
+    height:"30px";
+    font-size:"5px";
+    width:"30px";
+    height:"30px";
+    font-size:"5px";
+    width:"30px";
+    height:"30px";
+    font-size:"5px";
+    width:"30px";
+    height:"30px";
+}
+
+.hh{
+    color: rgb(100, 67, 24); 
+    text-align: center;
+}
+
+.tbl24{
+    width:"40%";
+    background-color: rgb(127, 150, 106);
+    text-align:center;
+    vertical-align: top;
+}
+ .h1g{
+    color: rgb(100, 67, 24); 
+    size: 6px; 
+    font-style:georgia;
+    text-align:center;
+ } 
+
+ .tbl25{
+    width:"50%"; 
+    border-spacing:"6";
+    border-spacing:"2";
+    border:"2px";
+    background-color: beige;
+    column-span:"1";
+    background-color: azure;
+ }
+      
+
+                  
